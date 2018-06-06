@@ -4,7 +4,7 @@ package com.ran.framework;
  * 提供相关配置项常量
  * Created By nature on 2018/6/4
  */
-public class ConfigConstant {
+public interface ConfigConstant {
 
     String CONFIG_FILE = "smart.properties";
 
